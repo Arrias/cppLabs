@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f6dfe4c-49f5-434b-8317-5b651e1f1229" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1kWSQUHv5lTVh0CROoBIzwbOibs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../GenContest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunManager">
+    <configuration name="first" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f6dfe4c-49f5-434b-8317-5b651e1f1229" name="Default Changelist" comment="" />
+      <created>1605814842619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605814842619</updated>
+      <workItem from="1605814844881" duration="3623000" />
+      <workItem from="1605826496526" duration="151000" />
+      <workItem from="1605870129352" duration="1682000" />
+      <workItem from="1605882048159" duration="3210000" />
+      <workItem from="1605887974506" duration="1476000" />
+      <workItem from="1605985862748" duration="1145000" />
+      <workItem from="1605996509769" duration="111000" />
+      <workItem from="1606134613201" duration="2247000" />
+      <workItem from="1606199352864" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="318" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605885552870">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="655" y="318" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605885552870" />
+    <state x="683" y="355" width="615" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605815318734">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="683" y="355" width="615" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1605815318734" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606199374379">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1606199374379" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1605885575919">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605885575919" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1605885575918">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605885575918" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1605885575918">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605885575918" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1605885575919">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605885575919" />
+    <state x="593" y="231" width="1321" height="737" key="SettingsEditor" timestamp="1605870508623">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="593" y="231" width="1321" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605870508623" />
+    <state x="433" y="457" width="1126" height="217" key="makefile.clean.confirm.dialog" timestamp="1605826501251">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="433" y="457" width="1126" height="217" key="makefile.clean.confirm.dialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605826501251" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605882479060">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1605882479060" />
+  </component>
+</project>
